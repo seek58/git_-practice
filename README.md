@@ -69,6 +69,6 @@ diff代码：git diff命令或者利用在线代码托管提供的功能（https
 练习二：在gitlab上个人group下新建一个练习项目，练习所有常用命令的使用，熟悉git和gitlab的使用
 
 进阶
-Pro Git
+Pro Git https://git-scm.com/book/en/v2
 
 Git主页
